@@ -6,4 +6,4 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-[home_page](https://github.com/Davies-K/flutter-furniture-ui/blob/master/screenshots/home.JPG)
+![home_page](https://github.com/Davies-K/flutter-furniture-ui/blob/master/screenshots/home.JPG)
